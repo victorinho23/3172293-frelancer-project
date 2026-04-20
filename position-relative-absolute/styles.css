@@ -1,0 +1,29 @@
+.container{
+    border: 3px dashed gray;
+    
+   
+}
+
+.box{
+    box-sizing: border-box;
+    height: 300px;
+    width: 300px;
+    border: 3px solid black;
+    margin: 100px auto;
+    padding-left:100px;
+    padding-right: 100px;
+    position: relative;
+   
+
+}
+
+.Robot{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+    /* position: relative; */
+    position: absolute;
+    left:200px;
+}
+
+
